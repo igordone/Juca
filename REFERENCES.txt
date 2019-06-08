@@ -1,0 +1,18 @@
+API'S Ref: 
+
+API Key: NQtXzth3ONJSKcT5GjWKTnY2icrgcoBUeKnuxb_4msen
+URL Credential: https://gateway.watsonplatform.net/assistant/api
+
+Versao: Development
+Assistant Name: JucaRH
+Assistant ID: 8916602b-89a1-4fc9-a43e-b13408064764
+Assistant URL: https://gateway.watsonplatform.net/assistant/api/v2/assistants/8916602b-89a1-4fc9-a43e-b13408064764/sessions
+
+Credentials:
+
+Username: apikey
+Password: NQtXzth3ONJSKcT5GjWKTnY2icrgcoBUeKnuxb_4msen
+2Password: bEs93gtWLSA6xdgAlV3iktMbfICmfva6Y3SFgxeX3Dmi
+
+
+Senha 00webhost: qKCsefxEmByf$aU)ujIH
